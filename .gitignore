@@ -1,2 +1,5 @@
 # Ignores the LocalData folder
 **/LocalData
+
+# Ignores the Other folder with the implementation from CS20SI
+**/Other
