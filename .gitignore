@@ -3,3 +3,6 @@
 
 # Ignores the Other folder with the implementation from CS20SI
 **/Other
+
+# Ignores the Saves folder with checkpoint and graphes
+**/Saves
